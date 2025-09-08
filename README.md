@@ -1,7 +1,6 @@
 # KỸ THUẬT LẬP TRÌNH STATA VÀ PYTHON - UEH - 2025
 
-Đại học Kinh tế TP.HCM, Việt Nam
-
+Đại học Kinh tế TP.HCM, Việt Nam  
 Sinh viên: Lầu Hỷ Kim
 
 MSV: 31231020691
