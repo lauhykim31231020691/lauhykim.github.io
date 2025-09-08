@@ -4,7 +4,7 @@
 Sinh viên: Lầu Hỷ Kim  
 MSV: 31231020691
 
-### Nội dung môn học
+### Nội dung môn học  
 
 Buổi 02 (16/08): Tổng quan ngôn ngữ lập trình Python  
 Buổi 03 (19/08): Kỹ thuật lập trình với Python  
